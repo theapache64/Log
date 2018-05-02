@@ -2,10 +2,5 @@ use_frameworks!
 
 target 'Log_Example' do
   pod 'Log', :path => '../'
-
-  target 'Log_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase' , '~> 2.1.4'
-  end
+  
 end

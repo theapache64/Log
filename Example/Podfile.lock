@@ -1,0 +1,16 @@
+PODS:
+  - Log (0.0.1)
+
+DEPENDENCIES:
+  - Log (from `../`)
+
+EXTERNAL SOURCES:
+  Log:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Log: 4db3aac32baf1a895f88bfaa638b950f13ff6cea
+
+PODFILE CHECKSUM: d007d82b0690d641ae6224a7f3f02bcb0e8808e4
+
+COCOAPODS: 1.5.0
