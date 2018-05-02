@@ -30,7 +30,7 @@
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		71E3DF98831B8812B504EA83 /* Pods_Log_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Log_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7D7634BAD3E7D20D5026B4F4 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		870DB9D59B42D96F49EDB25D /* Log.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = Log.podspec; path = ../Log.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		870DB9D59B42D96F49EDB25D /* iOSLog.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = iOSLog.podspec; path = ../iOSLog.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CD5D554677FE29F8C54AE4A7 /* Pods-Log_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Log_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Log_Tests/Pods-Log_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		DC0494B8E0F36EA046167F27 /* Pods-Log_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Log_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-Log_Example/Pods-Log_Example.release.xcconfig"; sourceTree = "<group>"; };
 		F31CB919CCA5FEBFAF49E4F7 /* Pods_Log_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Log_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -121,7 +121,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				870DB9D59B42D96F49EDB25D /* Log.podspec */,
+				870DB9D59B42D96F49EDB25D /* iOSLog.podspec */,
 				7D7634BAD3E7D20D5026B4F4 /* README.md */,
 				34142A6456EB8200C5902AEA /* LICENSE */,
 			);
