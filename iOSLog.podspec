@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'Log'
+  s.name             = 'iOSLog'
   s.version          = '0.0.1'
   s.summary          = 'iOS alternative for Android\'s Log class.'
 
